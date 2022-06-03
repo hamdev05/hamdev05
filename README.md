@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @hamdev05
-- 👀 I’m interested in front end developing
-- 🌱 I’m currently learning html and css
+- 👀 I’m a  junior front end developer
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on html and css project
-- 📫 You can reach me through email--oyaromade2020@gmail.com / romeohammed15@gmail.com
+- 📫 You can reach me through my emails--oyaromade2020@gmail.com / romeohammed15@gmail.com
 
 <!---
 hamdev05/hamdev05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
